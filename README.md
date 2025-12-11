@@ -2,28 +2,28 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=200&section=header&text=MizukiKakyoin&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Visual%20Communication%20Designer&descAlignY=55&descSize=20" width="100%"/>
 
-### 🎨 Teman Gege yang gampang stress
+### 🎨 DKV D nya? DAMNNN...I'M COOKED  🤙🤙🤙
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=20&pause=1000&color=FF6B6B&center=true&vCenter=true&random=false&width=600&lines=Creative+Visual+Designer+from+Surabaya;Passionate+About+Graphic+Design;Turning+Ideas+into+Visual+Stories;Always+Learning+%26+Growing!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=20&pause=1000&color=FF6B6B&center=true&vCenter=true&random=false&width=600&lines=Masuk+Enggak+,+Capek+Iya..+😒;Mau+Ngeluh+Tapi+Ini+TUGAS+PROYEK;Males+Mikir+,+Sudah+Penat;CUKUP+MAIN-MAINNYA+GEGE!!)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## 👋 Tentang Saya
+## 👋 Tentang Mizuki :
 
-Halo! Saya **Mizuki Kakyoin**, siswa SMK jurusan **Desain Komunikasi Visual** di SMKN 8 Surabaya. 
+Halo! Saya **Mizuki Kakyoin**, diriku lelah bekerja **Desain Seni Rupa** di SMKN 8 Surabaya. 
 
 Saya passionate dalam menciptakan desain visual yang menarik dan komunikatif. Saya percaya bahwa desain yang baik bisa menyampaikan pesan dengan cara yang indah dan efektif!
 
 - 🎓 Siswa DKV di **SMK 8 Surabaya**
 - 🎨 Fokus: Graphic Design, Illustration, dan Digital Design
-- 🌱 Sedang belajar: Motion Graphics & UI/UX Design
+- 🌱 Sedang belajar: Motion Graphics & 2D/3D Animation
 - 📍 Lokasi: Surabaya, Jawa Timur
-- 🎯 Goal: Menjadi desainer profesional dan membangun portofolio yang keren!
-- ⚡ Hobi: Desain, ilustrasi, dan eksplorasi trend design terbaru
+- 🎯 Goal: Mau Duit dari Hasil usaha, Bukan Minjam!
+- ⚡ Hobi: Desain, ilustrasi, dan ngeluh sama Tuhan
 
 ---
 
