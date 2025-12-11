@@ -12,13 +12,13 @@
 
 ---
 
-## 👋 Tentang Mizuki :
+## 👋 Tentang Diriku :
 
-Halo! Saya **Nabila Syakira**, diriku lelah bekerja **Desain Seni Rupa** di SMKN 8 Surabaya. 
+Halo! Saya **Nabila Syakira**, diriku sekolah di jurusan **Desain Komunikasi Visual** di SMKN 8 Surabaya. 
 
 Saya passionate dalam menciptakan desain visual yang menarik dan komunikatif. Saya percaya bahwa desain yang baik bisa menyampaikan pesan dengan cara yang indah dan efektif!
 
-- 🎓 Siswa DKV di **SMK 8 Surabaya**
+- 🎓 Siswa DKV di **SMKN 8 Surabaya**
 - 🎨 Fokus: Graphic Design, Illustration, dan Digital Design
 - 🌱 Sedang belajar: Motion Graphics & 2D/3D Animation
 - 📍 Lokasi: Surabaya, Jawa Timur
@@ -143,10 +143,10 @@ Saya passionate dalam menciptakan desain visual yang menarik dan komunikatif. Sa
 <br>
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-FF5722?style=for-the-badge)](link-portfolio-kamu)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/MizukiKakyoin_25/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/MizukiKakyoin)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:MizukiKakyoin86@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+6281805533332)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/Kira_yoshikage.07/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/NabilaSyakira)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kirayoshi747@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+6285784591432)
 
 <br>
 
